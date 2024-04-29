@@ -9,8 +9,16 @@ void main() {
   /// String result = 4.4;
 
   /// solution
+  
+    String x = "Mohamed";
+    bool y = true;
+    int xx = 5;
+    double result = 4.4;
 
   /// Q2:
+   String name = "Mohamed";
+    int age = 30;
+    print("name : $name , age : $age");
 
   /// String name = 'Mohamed', int age =30;
   /// print('name : name , age : #age');
@@ -25,4 +33,6 @@ void main() {
   /// else print(less than  5')
 
   /// solution
+  int n = 10;
+    (n >= 5) ? print("Greater than or Equal 5") : print("less than 5");
 }
