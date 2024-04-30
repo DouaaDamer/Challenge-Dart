@@ -13,6 +13,13 @@ void main() {
   /// |============|
 
   /// solution
+  print(
+    '|============|\n'
+    '|===Mohamed==|\n'
+    '|====Dart====|\n'
+    '|============|',
+  );
+
 
   /// Q3: check password length > 6 ? 'strong' : 'weak' using  single print
   /// hint : create variable password
